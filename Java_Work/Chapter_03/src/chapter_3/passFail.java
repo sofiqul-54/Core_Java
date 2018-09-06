@@ -19,6 +19,7 @@ public class passFail {
         System.out.println("Grade F");
         }else{
         System.out.println("Nuber Invalid"); 
+        
         }
     }
     

@@ -1,5 +1,5 @@
 
-package chapter_2;
+package com.sofiqul54;
 
 
 public class VariableEx {

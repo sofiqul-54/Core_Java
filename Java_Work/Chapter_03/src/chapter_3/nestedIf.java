@@ -7,7 +7,7 @@ public class nestedIf {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter Lucky Number between 500 and 1000");
+        System.out.println("Enter Lucky Number between 500 and 1000"); 
         int num = sc.nextInt();
         
         if (num%2 == 0){

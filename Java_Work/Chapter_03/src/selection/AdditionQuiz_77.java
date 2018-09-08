@@ -20,9 +20,9 @@ public class AdditionQuiz_77 {
         
         System.out.println("What is " + number1 + "+" + number2 + "?");
         
-        int number = input.nextInt();
+        int answer = input.nextInt();
         
-        System.out.println(number1 + "+" + number2 + "=" + answer + "is" + number1+number2 == answer);
+        System.out.println(number1 + " + " + number2 + " = " + answer + "  is " + (number1+number2 == answer));
     }
     
 }

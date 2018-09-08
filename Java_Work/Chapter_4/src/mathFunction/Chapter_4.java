@@ -7,7 +7,7 @@ package mathFunction;
 
 /**
  *
- * @author User
+ * @author MD. Spfiqul Islam,   
  */
 public class Chapter_4 {
 

@@ -1,5 +1,5 @@
 
-package chapter_3;
+package selection;
 
 import java.util.Scanner;
 

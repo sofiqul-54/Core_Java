@@ -1,15 +1,15 @@
 package Method;
 
-public class MethodEX3 {
+public class MethodEx3 {
 
     public static void main(String[] args) {
         display();
-        MethodEX3 m = new MethodEX3();
+        MethodEx3 m = new MethodEx3();
         m.display2();
         
 
         // call static method way - 2
-        MethodEX3.display();
+        MethodEx3.display();
     }
 
     public static void display() {

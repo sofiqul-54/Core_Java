@@ -10,6 +10,7 @@ package Method;
  * @author User
  */
 public class MethodEx1 {
+    String abc;
 
     public static void main(String[] args) {
 
@@ -25,6 +26,16 @@ public class MethodEx1 {
     }
     public String display3(){
     return "Hello World";
+    }
+    
+    public String display4(){
+    String str = "Hello Woorld";
+    return str;
+    }
+    
+    public String display5(){
+    abc ="Hello World";
+    return abc;
     }
     
 

@@ -3,9 +3,8 @@ package Method;
 public class MedthodEx7 {
     
 
-    public static void main(String[] args) {
-MedthodEx7 m = new MedthodEx7(){
-}
+   public static void main(String[] args) {
+
     }
 
     public int makeSum(int num1, int num2) {

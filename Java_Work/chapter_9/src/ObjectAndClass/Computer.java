@@ -12,7 +12,7 @@ public class Computer {
         this.serialNumber = serialNumber;
     }
 
-    public String getBrand() {int
+    public String getBrand() {
         return brand;
     }
 

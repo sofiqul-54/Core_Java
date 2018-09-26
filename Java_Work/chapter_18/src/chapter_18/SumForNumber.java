@@ -6,7 +6,7 @@ public class SumForNumber {
         int n = 25000;
         int sum = 0;
         while (true) {
-            if (sum > 25000) {
+            if (sum > 75000) {
                 break;
             }else{
             

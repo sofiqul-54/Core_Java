@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chapter_18;
+package Evidence4thExam;
 
 /**
  *
  * @author User
  */
-class arrays {
-
-    static void sort(int[] a) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
+class arr {
     
 }

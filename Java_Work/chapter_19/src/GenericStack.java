@@ -3,12 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chapter_18;
 
 /**
  *
  * @author User
  */
-class arr {
+public class GenericStack {
     
 }
